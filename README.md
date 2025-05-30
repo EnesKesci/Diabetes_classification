@@ -47,6 +47,7 @@ Using machine learning classification algorithms (especially Logistic Regression
 
 - `diabetes_classification.ipynb`: Notebook file of the cleaned and optimized model
 - `README.md`: Project description
+- `diabetes.csv`: Dataset
 
 ---
 
